@@ -1,0 +1,23 @@
+{
+  "name": "map-making",
+  "version": "1.0.0",
+  "description": "Tools and data for making maps for other projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReallyGoodSmarts/map-making.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReallyGoodSmarts/map-making/issues"
+  },
+  "homepage": "https://github.com/ReallyGoodSmarts/map-making#readme",
+  "dependencies": {
+    "mapshaper": "^0.5.39"
+  }
+}
