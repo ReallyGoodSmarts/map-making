@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="800" height="493" viewBox="0 0 800 493" stroke-linecap="round" stroke-linejoin="round">
+<g id="us_states_albers" font-family="sans-serif" font-size="12" text-anchor="middle">
+<text y="0" x="0" transform="translate(513.1728 357.7837)" class="g-state-name" id="g-state-MS">MS</text>
+<text y="0" x="0" transform="translate(703.6777 275.8383)" class="g-state-name" id="g-state-NC">NC</text>
+<text y="0" x="0" transform="translate(383.2627 302.9376)" class="g-state-name" id="g-state-OK">OK</text>
+<text y="0" x="0" transform="translate(687.2987 232.8571)" class="g-state-name" id="g-state-VA">VA</text>
+<text y="0" x="0" transform="translate(651.855 214.0557)" class="g-state-name" id="g-state-WV">WV</text>
+<text y="0" x="0" transform="translate(461.1905 378.2391)" class="g-state-name" id="g-state-LA">LA</text>
+<text y="0" x="0" transform="translate(574.0281 131.732)" class="g-state-name" id="g-state-MI">MI</text>
+<text y="0" x="0" transform="translate(777.2244 106.2394)" class="g-state-name" id="g-state-MA">MA</text>
+<text y="0" x="0" transform="translate(111.9317 99.2707)" class="g-state-name" id="g-state-ID">ID</text>
+<text y="0" x="0" transform="translate(668.8597 429.8484)" class="g-state-name" id="g-state-FL">FL</text>
+<text y="0" x="0" transform="translate(339.6691 171.7918)" class="g-state-name" id="g-state-NE">NE</text>
+<text y="0" x="0" transform="translate(52.1268 1)" class="g-state-name" id="g-state-WA">WA</text>
+<text y="0" x="0" transform="translate(224.0383 314.6098)" class="g-state-name" id="g-state-NM">NM</text>
+<g/>
+<text y="0" x="0" transform="translate(335.5782 107.6681)" class="g-state-name" id="g-state-SD">SD</text>
+<text y="0" x="0" transform="translate(351.3076 393.8642)" class="g-state-name" id="g-state-TX">TX</text>
+<text y="0" x="0" transform="translate(1 228.1855)" class="g-state-name" id="g-state-CA">CA</text>
+<text y="0" x="0" transform="translate(564.9507 352.7774)" class="g-state-name" id="g-state-AL">AL</text>
+<text y="0" x="0" transform="translate(629.0685 352.7907)" class="g-state-name" id="g-state-GA">GA</text>
+<text y="0" x="0" transform="translate(691.469 158.7925)" class="g-state-name" id="g-state-PA">PA</text>
+<text y="0" x="0" transform="translate(458.1687 242.1001)" class="g-state-name" id="g-state-MO">MO</text>
+<text y="0" x="0" transform="translate(242.6791 219.0769)" class="g-state-name" id="g-state-CO">CO</text>
+<text y="0" x="0" transform="translate(144.4006 203.1752)" class="g-state-name" id="g-state-UT">UT</text>
+<text y="0" x="0" transform="translate(566.2618 287.167)" class="g-state-name" id="g-state-TN">TN</text>
+<text y="0" x="0" transform="translate(220.2221 129.7218)" class="g-state-name" id="g-state-WY">WY</text>
+<text y="0" x="0" transform="translate(727.7795 103.3274)" class="g-state-name" id="g-state-NY">NY</text>
+<text y="0" x="0" transform="translate(360.6165 237.2113)" class="g-state-name" id="g-state-KS">KS</text>
+<text y="0" x="0" transform="translate(41.517 426.4659)" class="g-state-name" id="g-state-AK">AK</text>
+<text y="0" x="0" transform="translate(62.622 179.3027)" class="g-state-name" id="g-state-NV">NV</text>
+<text y="0" x="0" transform="translate(508.2373 197.4407)" class="g-state-name" id="g-state-IL">IL</text>
+<text y="0" x="0" transform="translate(754.2695 74.3107)" class="g-state-name" id="g-state-VT">VT</text>
+<text y="0" x="0" transform="translate(200.3574 40.7322)" class="g-state-name" id="g-state-MT">MT</text>
+<text y="0" x="0" transform="translate(439.8556 160.8438)" class="g-state-name" id="g-state-IA">IA</text>
+<text y="0" x="0" transform="translate(669.2433 317.0454)" class="g-state-name" id="g-state-SC">SC</text>
+<text y="0" x="0" transform="translate(773.7425 80.7756)" class="g-state-name" id="g-state-NH">NH</text>
+<text y="0" x="0" transform="translate(126.9678 305.2961)" class="g-state-name" id="g-state-AZ">AZ</text>
+<text y="0" x="0" transform="translate(712.43 197.6599)" class="g-state-name" id="g-state-DC">DC</text>
+<g/>
+<g/>
+<text y="0" x="0" transform="translate(743.2963 175.9998)" class="g-state-name" id="g-state-NJ">NJ</text>
+<text y="0" x="0" transform="translate(711.9503 187.9917)" class="g-state-name" id="g-state-MD">MD</text>
+<text y="0" x="0" transform="translate(799 34.152)" class="g-state-name" id="g-state-ME">ME</text>
+<text y="0" x="0" transform="translate(227.5342 491.6012)" class="g-state-name" id="g-state-HI">HI</text>
+<text y="0" x="0" transform="translate(738.8404 196.5869)" class="g-state-name" id="g-state-DE">DE</text>
+<g/>
+<g/>
+<text y="0" x="0" transform="translate(784.4286 117.2629)" class="g-state-name" id="g-state-RI">RI</text>
+<text y="0" x="0" transform="translate(594.6833 242.4998)" class="g-state-name" id="g-state-KY">KY</text>
+<text y="0" x="0" transform="translate(613.2472 187.9547)" class="g-state-name" id="g-state-OH">OH</text>
+<text y="0" x="0" transform="translate(492.4183 97.581)" class="g-state-name" id="g-state-WI">WI</text>
+<text y="0" x="0" transform="translate(25.9716 74.201)" class="g-state-name" id="g-state-OR">OR</text>
+<text y="0" x="0" transform="translate(334.9462 43.4653)" class="g-state-name" id="g-state-ND">ND</text>
+<text y="0" x="0" transform="translate(461.5254 312.4435)" class="g-state-name" id="g-state-AR">AR</text>
+<text y="0" x="0" transform="translate(560.7132 199.8086)" class="g-state-name" id="g-state-IN">IN</text>
+<text y="0" x="0" transform="translate(421.6576 64.1449)" class="g-state-name" id="g-state-MN">MN</text>
+<text y="0" x="0" transform="translate(767.1102 124.7703)" class="g-state-name" id="g-state-CT">CT</text>
+</g>
+</svg>
