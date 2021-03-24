@@ -14,6 +14,12 @@ npx mapshaper -i tmp/cb_2018_us_state_500k.shp \
     -simplify resolution=1200 \
     -o geos/us_states_albers.json
     
+    
+npx mapshaper -i tmp/cb_2018_us_state_500k.shp \
+    -proj wgs84 \
+    -simplify resolution=1200 \
+    -o geos/us_states.topojson
+    
 # clean up the tmp folder
 rm tmp/*.*
 
